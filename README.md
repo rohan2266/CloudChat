@@ -22,5 +22,5 @@ This project is a chat application designed to facilitate communication between 
 To deploy this project run
 
 ```bash
-  https://github.com/rohan2266/CloudChat
+  git clone https://github.com/rohan2266/CloudChat
 ```
