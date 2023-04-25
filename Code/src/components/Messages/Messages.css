@@ -1,0 +1,12 @@
+.messagecontent{
+    height: 500px;
+    overflow-y: scroll;
+}
+
+.messages{
+    padding-top : 10px;
+}
+#msgs{
+    background-image: url('https://cdn.wallpapersafari.com/27/32/jt4AoG.jpg') !important;
+    background-size: cover !important;
+}
